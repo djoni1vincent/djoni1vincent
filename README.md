@@ -1,6 +1,6 @@
 # Denys — Backend Developer (Python / Django)
 
-Building REST APIs and web applications. Currently seeking a lærling position in Norway.
+Building REST APIs and web applications. Currently seeking a back-end position in Norway.
 
 ---
 
@@ -12,7 +12,7 @@ Building REST APIs and web applications. Currently seeking a lærling position i
 
 ## Stack
 
-Python · Django · Django REST Framework · PostgreSQL · Docker · pytest · uv
+Python · Django · Django REST Framework · PostgreSQL · Flask · Docker · pytest · uv
 
 ## Projects
 
