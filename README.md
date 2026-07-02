@@ -20,7 +20,7 @@ Python · Django · Django REST Framework · PostgreSQL · Docker · pytest · u
 |---|---|
 | [django-library](https://github.com/djoni1vincent/django-library) | Book catalog — Django 6, PostgreSQL, middleware, signals, pytest |
 | [django-rest-api](https://github.com/djoni1vincent/django-rest-api) | Product catalog REST API — DRF, JWT, nested serializers, Swagger UI |
-| [Hardware_Shop_Secure](https://github.com/djoni1vincent/Hardware_Shop_Secure) | Flask web store — GDPR cookie consent, session security, threat analysis |
+| [hardware-shop-secure](https://github.com/djoni1vincent/hardware-shop-secure) | Flask web store — GDPR cookie consent, session security, threat analysis |
 | [django-studybuddy](https://github.com/djoni1vincent/django-studybuddy) | Study room booking app — Django, rooms, topics, messaging |
 | [python](https://github.com/djoni1vincent/python) | Learning projects — games, GUI apps, scrapers, mini-tools |
 
