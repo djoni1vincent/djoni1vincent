@@ -8,7 +8,6 @@ Building REST APIs and web applications. Currently seeking a back-end position i
 
 - **Django REST Framework** — serializers, viewsets, JWT auth, custom permissions (Phase 2 of my Django roadmap)
 - **Library / Book Club** — Django + DRF project: book catalog, reviews, PostgreSQL, pytest
-- **Digitaliseringsdirektoratet** — applying for IT-utvikler lærling
 
 ## Stack
 
